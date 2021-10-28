@@ -1,0 +1,13 @@
+Malware researcher Marcus Hutchins, former chief scientist at Microsoft and now a senior vice president at the chipmaker Atomico, pleaded guilty to a specific crime and was sentenced today to a year of probation, with all of that time back spent on the security module his criminal charge caused: malware, an illegal alternative to used code in Internet Explorer.
+
+Former senior officer-in-charge at the Microsoft and Intel division dubbed HackerOne, Hutchins still managed to write his code as part of an ongoing effort to get together a security solution to solve persistent threats in the world of cloud-computing.
+
+All three of those events led to his being incarcerated twice. In 2015, Hutchins pled guilty to one count of distribution of a pirated copy of Windows OS code to a seller who used it to write code for a software program for Apple’s iOS, and in 2014 he pleaded guilty to one count of distribution of an illegal generic copy of Windows OS code to an email client user who used the copied code to sign into a Client directory service.
+
+The guilty plea isn’t a surprise. At the time of the charges against Hutchins, Microsoft had halted programs from its Windows operating system and started pursuing “license based” licenses from companies for the products it sells in the cloud, such as Microsoft’s Surface line of computers and its Office productivity apps.
+
+Hutchins also admitted that he caused his actions to disrupt Microsoft’s core consumer Internet licensing and security efforts in a way he needed to be stopped.
+
+In a press release today, Hutchins’ lawyer, who did not want to be named, said his client cooperated fully with the investigation and had nothing to do with the hacking activities, but “cleansed his defense of his termination during the course of the investigation.”
+
+Hutchins will remain in custody until after his sentencing, though, and we will update this story as more information becomes available.
